@@ -1,3 +1,7 @@
 Name : Iqra Shaikh
 Roll No : 2406205
 Class : TYBSC
+
+College Name : DCT's Dhempe College
+Department : Computer Science
+Semester : 5
